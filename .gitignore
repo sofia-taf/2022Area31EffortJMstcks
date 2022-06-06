@@ -1,12 +1,9 @@
 /.Rproj.user
+/*.Rproj
 /.Rhistory
 /.RData
 /.Ruserdata
 /bootstrap/data
 /bootstrap/software
 /bootstrap/library
-/data
-/model
-/output
-/report
 results.rds
